@@ -6,9 +6,7 @@ function solve(array) {
   }
 
   newArr.sort((a, b) => b - a)
-
   let result = newArr[0]
-  
   console.log(result)
 }
 
